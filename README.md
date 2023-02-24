@@ -21,6 +21,7 @@ BACKEND APP MADE IN NEST JS
 
 - clone the repository
 - Install MOngoDB
+- set the .env file with JWT_KEY variable
 - npm i
 - nest build
 - nest start or npm start
